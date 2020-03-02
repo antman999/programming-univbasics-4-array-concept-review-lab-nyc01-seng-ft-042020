@@ -22,3 +22,4 @@ def find_min_value(array)
 end
 end 
 x
+end
